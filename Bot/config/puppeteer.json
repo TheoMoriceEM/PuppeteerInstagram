@@ -1,0 +1,23 @@
+{
+  "base_url": "https://www.instagram.com/",
+  "tags_search_url": "https://www.instagram.com/explore/tags/",
+  "username": "jadorelacom@gmail.com",
+  "password": "comcomcom",
+  "searchTags": ["tennis", "nba", "presidentialdebate"],
+  "settings": {
+    "headless": false,
+    "likes_amount": 9
+  },
+  "selectors": {
+    "username_field": "input[name='username']",
+    "password_field": "input[type='password']",
+    "submit_button": "button[type='submit']",
+    "store_later_button": "#react-root > section > main > div > div > div > div > button",
+    "enable_notifications_later_button": "body > div[role='presentation'] > div > div > div > div:last-of-type > button:last-of-type",
+    "publications": "#react-root > section > main > article > div:first-of-type > div > div > div:nth-child(ROW) > div:nth-child(COLUMN)",
+    "like_button": "body > div[role='dialog'] > div[role='dialog'] > div > article > div:last-of-type > section:first-of-type > span:first-of-type > button",
+    "follow_button": "body > div[role='dialog'] > div[role='dialog'] > div > article > header > div:last-of-type > div:first-of-type > div:last-of-type > button",
+    "close_modal_button": "body > div[role='dialog'] > div:last-of-type > button",
+    "account_name": "body > div[role='dialog'] > div[role='dialog'] > div > article > header > div:last-of-type > div:first-of-type > div:first-of-type > span > a"
+  }
+}

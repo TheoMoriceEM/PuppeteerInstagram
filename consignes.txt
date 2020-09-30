@@ -1,0 +1,8 @@
+Acceder a Instagram -> via la page de base : https://instagram.com
+S'y connecter
+Rechercher un hashtag
+Liker et s'abonner aux users des 9 photos "Meilleurs publications"
+Enregistrer les utilisateurs que l'on follow sur Firebase
+****!!!!!!****
+Quand le script passe sur une photo deja liké ou un utilisateur deja follow, il ne doit pas reclicker sur le bouton pour ne pas unlike ou unfollow
+Attention a bien utiliser le systeme de class et de méthode vu sur l'exercice GitHub

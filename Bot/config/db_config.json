@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "puppeteer-instagram",
+  "private_key_id": "c944ba0a96970541a5009d2c74d50916112a037b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCn3g0DnTWs7VIT\nzNFVN8xWSv7jCK0mhmlCjWUgjErCgiEHDyUyVHQGpfHNmLgajhSn4tw3TO5jq8RD\ndi/ibaAloIFaBleS8WYTdIDuRTy89+R6huIEHem1W8Px4u4GhIhsRcuwifwWewmM\nAKVl6d/6oErHS51kePDwD4CHYr80ickKzx8g3Akt3F2EK1hTECRXdVzaL3ho4ckr\nHzBxs7QVy8ZTNpSIafph2utUmqmlTIAys7qDBwEF19lS3zlX70JVgHovYvzZUGYm\nNL5VJm/WVs9uFQx1uEdsKrpjj3tKBa8HajWyPK4FDKFGNxSX2rxHcdcO6i4kL4j8\nHLSNPQPxAgMBAAECggEACKC3rcS/4F9SuYCMjksXwiQo4VGd96XPJWvnw5JeWcyv\nJqIbRPDVBU30ZX8o0DmW+3GEJMX8FyyaAeciSyqcAW8UUuSSTfPBDbUuVsDBgEtj\n533FAlXowAjjQ2yI1BYt/lWghFZ1OdERUqwqVBh/Ce5A5akf4ez64jXDwwGa5vfr\n/TRfVQQotSkrxSGvFbx4rrnJxiS+YPTH1CmhDm4oIIPC+I0wQyrHeb2BS8gwQFj1\nhP2w7dBl57H3EQEamURNRcBljWVMjH8W17RfE2qHaJqOcvqBZeIelTVUSNS0Td+t\nYtd65dPt3TRV56Kahe+Q9i56mXfDCVkBv292t0qxgQKBgQDrcmJ5xtURuXlqwAiW\n2OOpSc1blokMiG/oxMfNXnsFIOPlaYEDaEpbywnqGfvAQ3EkpvQk5uRoMvUA1gSc\nYXIrncJtBIYUIEf+vuKMg8Y9DifisLvY0P4/ndVIn4qfI0RJtv24r9t8rjuRdqJ3\n2PW6tfPHLUaWC0QW1QC54ojxMQKBgQC2hXG06W6ueCX2dSyXSKLDcscjCttiB2b6\nLY2C+NU2dBeswJ5abNpX2/NJuy18sEOyuQ63ko2b2OP8GyRE8ci8PATSxFRvNnFr\nzIAMpogfKeKie+VgQ7gzFSn2fUW54OSVX7XNNujXCixlr0xmNkHDgQ/NGXtZ65AT\nbm4AVBaOwQKBgQCFRwirenwePmmWngG+siOdLqPKlpoZuBnxH4Mio7rrmkSnFmPr\nc9uzvmlsVS0HFqYzYzaMtQ7SVRYPVRbjFt40BmeKoqbrOaLHd3JyrB1JbnvxfK24\n/AUQKd4T8AveLW54c9eH9jQ+jbo2i3tIcE4ZVOob82sjgFkYu5ZfovZ14QKBgAKA\nPZifAjc9yjdgT6YbBq/q6LOgOHVVaKHQ8flzc2h1msVxNjpC95LwnprKB8uHlsXi\nJ0N4rJwQEr+nl42iSn/Zyq8gpY+IjXFOsgp6Va8nocVcMT5qbyG0DokkGkp7vGYX\nk6QmNnaL2yPhjQhxgeEt6YuD597JjYXWo4c5n72BAoGAMeuE9equGDfIMqvFH2DG\nw11LJ8/OtazRf0ba8s8byxmVkDv8V4GsE1/WgtakNX4wjQxWh8eKz1j91mMNwGeB\nay+8x/LTAPbbUNke3tjJa3xgvND2CXt5jVktFOhSxOEQ5vLn+nvte937gdviTWLW\no2W40YDxlcEbc2TPReBg9yA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7yy7y@puppeteer-instagram.iam.gserviceaccount.com",
+  "client_id": "108248531763460605418",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7yy7y%40puppeteer-instagram.iam.gserviceaccount.com"
+}
